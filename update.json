@@ -1,8 +1,8 @@
 {
   "app_name": "Reel Time",
   "package_name": "com.shadowhusky.reeltime",
-  "version": "0.1.1",
-  "version_code": 2,
+  "version": "0.1.0",
+  "version_code": 1,
   "apk_url": "https://github.com/shadow-husky/reel-time-releases/releases/latest/download/ReelTime-v0.1.0.apk",
   "release_notes": "Initial Reel Time test release.",
   "required": false,
